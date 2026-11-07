@@ -27,6 +27,20 @@ How can I change the list "myList" in the html file?
 
 
 Task 3
-1.Was ist ein form-Element?
 Ein form ist ein HTML-Formular, in das Benutzer Daten eingeben können, z. B. ihren Namen oder ihre E-Mail-Adresse.
 
+Which parameters of this DOM element can be accessed from javascript? & What do these parameters do?
+
+    Das DOM-Element `<form>` wird verwendet, um Benutzereingaben zu sammeln.
+
+    Mit JavaScript kann ich auf verschiedene Eigenschaften zugreifen:
+
+    - `id`: Eindeutige Kennung des Formulars
+    - `name`: Name des Formulars
+    - `action`: Ziel der Datenübertragung
+    - `method`: Art der Datenübertragung (GET/POST)
+    - `elements`: Zugriff auf Eingabefelder
+    - `noValidate`: Steuerung der automatischen Überprüfung
+    - `target`: Bestimmt, wo die Antwort geöffnet wird
+
+    Mit `document.getElementById()` kann ich auf das Formular zugreifen und seine Eigenschaften auslesen oder verändern.
