@@ -6,5 +6,11 @@ What is the "document" variable in JavaScript?
     _Mit HTML erstellt man die Bauteile_
 
 What can I do with the "document" variable?
-_Ich kann die "document" variable verändern mit javaScript!_
+    _Ich kann die "document" variable verändern mit javaScript!_
 
+<h1 id="title">Hello World!</h1>
+<button onclick="changeText()">Click me!</button>
+
+<function changeText() {
+document.getElementById("title").textContent = "Hello JavaScript!";>
+}
