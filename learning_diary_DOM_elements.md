@@ -13,4 +13,20 @@ What can I do with the "document" variable?
 
 <function changeText() {
 document.getElementById("title").textContent = "Hello JavaScript!";>
-}
+
+Task 2
+How can I access the list "myList" in the html file?
+    _Ich kann mit `document.getElementById()` auf bestimmte HTML-Elemente zugreifen_ 
+    Dafür muss ich die ID des Elements kennen__
+    _Beispielsweise kann ich mit `document.getElementById("myList")` meine Liste finden und in einer Variable speichern_
+
+How can I change the list "myList" in the html file?
+    _Ich kann  eine HTML-Liste mithilfe von JavaScript und dem DOM verändern_
+    _Zuerst greife ich mit `document.getElementById("myList")` auf die Liste zu_
+    _Anschließend kann ich mit `document.createElement("li")` einen neuen Listenpunkt erstellen und ihn mit `appendChild()` zur bestehenden Liste hinzufügen_
+
+
+Task 3
+1.Was ist ein form-Element?
+Ein form ist ein HTML-Formular, in das Benutzer Daten eingeben können, z. B. ihren Namen oder ihre E-Mail-Adresse.
+
