@@ -11,3 +11,12 @@ button.onclick = function() {
     button.innerText = "Clicked!";
     button.style.backgroundColor = "lightgreen";
 }
+
+
+function changeInput() {
+    let input = document.getElementById("myInput");
+
+    input.value = "Hallo!";
+    input.placeholder = "Neuer Hinweis";
+    input.style.backgroundColor = "lightblue";
+}

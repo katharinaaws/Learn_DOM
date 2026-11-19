@@ -24,3 +24,8 @@ Ich habe ausprobiert, wie man den Text und die Farbe eines Buttons durch einen K
 
 Tipps und Tricks: Ich habe ChatGPT gebeten, mir die Eigenschaften einfach zu erklären, kurze Codebeispiele zu erstellen und anhand eines interaktiven Beispiels zu zeigen, wie ein Button funktioniert.
 
+**INPUT**
+- Bei dieser Aufgabe habe ich mich mit dem HTML-Element `input` beschäftigt und herausgefunden, wie man Eingabefelder mit JavaScript steuern kann.
+- Besonders interessant fand ich die Eigenschaften `value`, `placeholder` und `disabled`, da man damit den Inhalt und die Nutzung eines Eingabefeldes beeinflussen kann.
+- Mithilfe eines Beispiels konnte ich testen, wie sich Texte automatisch einfügen lassen und wie man ein Eingabefeld aktiviert oder deaktiviert.
+- **Tipps und Tricks:** Ich habe ChatGPT nach den wichtigsten Funktionen eines Input-Elements gefragt und darum gebeten, die Erklärungen möglichst kurz und verständlich zu halten. Außerdem habe ich mir ein praktisches Beispiel geben lassen, um die Funktionen selbst auszuprobieren.

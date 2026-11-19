@@ -52,7 +52,9 @@ ___BUTTON__
 Task 3: 
 1. __Which parameters of the Button element can be accessed from JavaScript?__
 A button can be accessed and modified using JavaScript.
-Property	What does it do?
+2. ___What does it do?__
+ Property	What does it do?
+ 
 button.id	Gets or changes the button's ID.
 button.innerText	Gets or changes the text displayed on the button.
 button.disabled	Enables or disables the button (true / false).
@@ -61,6 +63,19 @@ button.value	Gets or changes the button's value.
 button.type	Defines the button type (button, submit, reset).
 button.onclick	Executes a function when the button is clicked.
 
-Code: 
+___INPUT__
 
-;
+Task 3: 
+1. __Which parameters of the Input element can be accessed from JavaScript?__
+Ein Input-Element ist ein Eingabefeld in HTML, in das Benutzer beispielsweise Text oder Zahlen eingeben können.
+2. ___What does it do?__
+Property	What does it do?
+
+input.id	Gibt die eindeutige ID des Eingabefeldes an.
+input.value	Liest oder verändert den eingegebenen Wert.
+input.type	Bestimmt die Art der Eingabe (z. B. text, number, password).
+input.placeholder	Zeigt einen Hinweistext im leeren Eingabefeld.
+input.disabled	Aktiviert oder deaktiviert das Eingabefeld.
+input.required	Legt fest, ob das Feld ausgefüllt werden muss.
+input.maxLength	Bestimmt die maximale Anzahl an Zeichen.
+
