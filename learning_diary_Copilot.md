@@ -13,3 +13,14 @@ Dabei habe ich folgende Tipps und Tricks angewendet:
 
 Ich habe gelernt, dass ich durch konkrete und gezielte Eingaben (Prompts) bessere und verständlichere Antworten von KI erhalten kann. Besonders hilfreich war es, komplizierte Erklärungen vereinfachen zu lassen und mit kleinen Codebeispielen zu arbeiten. Außerdem habe ich gelernt, dass ich Antworten schrittweise verbessern kann, indem ich konkrete Änderungswünsche formuliere.
 
+**BUTTON**
+Was habe ich gelernt?
+
+Ich habe gelernt, dass man mit JavaScript über document.getElementById() auf HTML-Buttons zugreifen und diese verändern kann.
+
+Die wichtigsten Eigenschaften sind innerText, style, disabled und onclick.
+
+Ich habe ausprobiert, wie man den Text und die Farbe eines Buttons durch einen Klick verändern kann.
+
+Tipps und Tricks: Ich habe ChatGPT gebeten, mir die Eigenschaften einfach zu erklären, kurze Codebeispiele zu erstellen und anhand eines interaktiven Beispiels zu zeigen, wie ein Button funktioniert.
+

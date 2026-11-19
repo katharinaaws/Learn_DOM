@@ -1,3 +1,4 @@
+___FORM__
 Task 1
 What is the "document" variable in JavaScript?
     _DOM ist eine Art Liste aller Bauteile einer HTML Webseite (Überschrift, Text, etc..) wird als ganzes in ein Object -> gespeichert_
@@ -44,3 +45,22 @@ Which parameters of this DOM element can be accessed from javascript? & What do 
     - `target`: Bestimmt, wo die Antwort geöffnet wird
 
     Mit `document.getElementById()` kann ich auf das Formular zugreifen und seine Eigenschaften auslesen oder verändern.
+
+
+___BUTTON__
+
+Task 3: 
+1. __Which parameters of the Button element can be accessed from JavaScript?__
+A button can be accessed and modified using JavaScript.
+Property	What does it do?
+button.id	Gets or changes the button's ID.
+button.innerText	Gets or changes the text displayed on the button.
+button.disabled	Enables or disables the button (true / false).
+button.style	Changes the appearance, e.g. color or size.
+button.value	Gets or changes the button's value.
+button.type	Defines the button type (button, submit, reset).
+button.onclick	Executes a function when the button is clicked.
+
+Code: 
+
+;
