@@ -41,3 +41,9 @@ Was habe ich gelernt?
 - **Tipps und Tricks:** Ich habe mir erklären lassen, warum man zuerst ein `li`-Element erstellen muss, bevor man es mit `appendChild()` zur Liste hinzufügen kann. Zusätzlich habe ich ausprobiert, wie sich die Liste verändert, wenn man mehrere Elemente hinzufügt.
 
 
+**select/option**
+
+- Bei dieser Aufgabe habe ich untersucht, wie Dropdown-Menüs mit `select` und `option` funktionieren.
+- Ich habe festgestellt, dass `select.value` den ausgewählten Wert liefert und man mit `selectedIndex` die Position der Auswahl bestimmen kann.
+- Ich habe ChatGPT gefragt, wie JavaScript erkennt, welche Option gerade ausgewählt wurde, und wie man zusätzliche Auswahlmöglichkeiten einfügen kann.
+- **Tipps und Tricks:** Ich habe verschiedene Werte für die Optionen getestet und ChatGPT gefragt, warum der sichtbare Text einer Option nicht immer mit ihrem `value` übereinstimmen muss. Dadurch konnte ich den Unterschied zwischen `text` und `value` besser verstehen.

@@ -41,3 +41,8 @@ function addItem() {
 }
 
 
+function showSelection() {
+    let select = document.getElementById("mySelect");
+
+    alert("You selected: " + select.value);
+}

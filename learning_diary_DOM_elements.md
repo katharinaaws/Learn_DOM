@@ -110,4 +110,20 @@ ul.removeChild()	Entfernt ein Element aus der Liste.
 ul.style	Verändert das Aussehen der Liste.
 ul.children.length	Gibt die Anzahl der direkten Elemente zurück.
 
+__select / option__
+Task 3
+1. __Which parameters of the select element can be accessed from JavaScript?__
+Das HTML-Element select erstellt ein Dropdown-Menü, aus dem Benutzer eine Option auswählen können. Die einzelnen Auswahlmöglichkeiten werden mit option definiert.
+2. ___What does it do?__
+Eigenschaft / Methode	Erklärung
+select.value	Gibt den Wert der ausgewählten Option zurück.
+select.options	Greift auf alle verfügbaren Optionen zu.
+select.selectedIndex	Gibt die Position der ausgewählten Option an (beginnt bei 0).
+select.disabled	Aktiviert oder deaktiviert das Dropdown-Menü.
+select.add()	Fügt eine neue Option hinzu.
+select.remove()	Entfernt eine Option.
+option.text	Gibt den sichtbaren Text einer Option an.
+option.value	Gibt den Wert einer Option an.
+option.selected	Zeigt an, ob eine Option ausgewählt ist.
+
 
