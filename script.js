@@ -46,3 +46,12 @@ function showSelection() {
 
     alert("You selected: " + select.value);
 }
+
+
+function drawShape() {
+    let canvas = document.getElementById("myCanvas");
+    let ctx = canvas.getContext("2d");
+
+    ctx.fillStyle = "blue";
+    ctx.fillRect(50, 40, 100, 80);
+}

@@ -126,4 +126,21 @@ option.text	Gibt den sichtbaren Text einer Option an.
 option.value	Gibt den Wert einer Option an.
 option.selected	Zeigt an, ob eine Option ausgewählt ist.
 
+___canva__
+Task 3
+1. __Which parameters of the canva element can be accessed from JavaScript?__
+Das HTML-Element canvas wird verwendet, um mit JavaScript Grafiken, Formen, Linien und Animationen zu zeichnen.
+2. ___What does it do?__
+Eigenschaft / Methode	Erklärung
+canvas.id	Gibt die ID des Canvas-Elements an.
+canvas.width	Bestimmt die Breite der Zeichenfläche.
+canvas.height	Bestimmt die Höhe der Zeichenfläche.
+canvas.getContext("2d")	Ermöglicht das Zeichnen auf dem Canvas.
+ctx.fillStyle	Legt die Farbe einer Form fest.
+ctx.fillRect()	Zeichnet ein ausgefülltes Rechteck.
+ctx.clearRect()	Löscht einen Bereich der Zeichenfläche.
+ctx.beginPath()	Beginnt einen neuen Zeichenpfad.
+ctx.arc()	Erstellt einen Kreis oder Kreisbogen.
+
+Wichtig: Die Eigenschaften mit ctx gehören zum Zeichenkontext, nicht direkt zum Canvas-Element.
 

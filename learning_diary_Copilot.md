@@ -47,3 +47,11 @@ Was habe ich gelernt?
 - Ich habe festgestellt, dass `select.value` den ausgewählten Wert liefert und man mit `selectedIndex` die Position der Auswahl bestimmen kann.
 - Ich habe ChatGPT gefragt, wie JavaScript erkennt, welche Option gerade ausgewählt wurde, und wie man zusätzliche Auswahlmöglichkeiten einfügen kann.
 - **Tipps und Tricks:** Ich habe verschiedene Werte für die Optionen getestet und ChatGPT gefragt, warum der sichtbare Text einer Option nicht immer mit ihrem `value` übereinstimmen muss. Dadurch konnte ich den Unterschied zwischen `text` und `value` besser verstehen.
+
+
+**canvas**
+
+- Ich habe herausgefunden, dass man mit dem HTML-Element canvas eigene Grafiken direkt im Browser erstellen kann.
+- Besonders wichtig ist getContext("2d"), da man damit Zugriff auf die Zeichenfunktionen erhält.
+- ich habe ChatGPT gefragt, wie man statt eines Rechtecks auch einen Kreis zeichnen kann und welche Bedeutung die Zahlen in fillRect(50, 40, 100, 80) haben.
+- **Tipps und Tricks**: Ich habe ChatGPT gebeten, mir die Koordinaten auf einer Zeichenfläche genauer zu erklären. Dabei habe ich gelernt, dass der Punkt (0,0) links oben liegt und die x- und y-Werte die Position einer Form bestimmen. Anschließend habe ich unterschiedliche Größen und Positionen ausprobiert.
