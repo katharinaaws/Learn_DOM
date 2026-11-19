@@ -20,3 +20,14 @@ function changeInput() {
     input.placeholder = "Neuer Hinweis";
     input.style.backgroundColor = "lightblue";
 }
+
+
+function addRow() {
+    let table = document.getElementById("myTable");
+
+    let row = table.insertRow();
+
+    row.insertCell(0).innerText = "Katharina";
+    row.insertCell(1).innerText = "22";
+}
+

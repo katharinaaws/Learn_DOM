@@ -16,16 +16,21 @@ Ich habe gelernt, dass ich durch konkrete und gezielte Eingaben (Prompts) besser
 **BUTTON**
 Was habe ich gelernt?
 
-Ich habe gelernt, dass man mit JavaScript über document.getElementById() auf HTML-Buttons zugreifen und diese verändern kann.
-
-Die wichtigsten Eigenschaften sind innerText, style, disabled und onclick.
-
-Ich habe ausprobiert, wie man den Text und die Farbe eines Buttons durch einen Klick verändern kann.
-
-Tipps und Tricks: Ich habe ChatGPT gebeten, mir die Eigenschaften einfach zu erklären, kurze Codebeispiele zu erstellen und anhand eines interaktiven Beispiels zu zeigen, wie ein Button funktioniert.
+- Ich habe gelernt, dass man mit JavaScript über document.getElementById() auf HTML-Buttons zugreifen und diese verändern kann.
+- Die wichtigsten Eigenschaften sind innerText, style, disabled und onclick.
+- Ich habe ausprobiert, wie man den Text und die Farbe eines Buttons durch einen Klick verändern kann.
+- Tipps und Tricks: Ich habe ChatGPT gebeten, mir die Eigenschaften einfach zu erklären, kurze Codebeispiele zu erstellen und anhand eines interaktiven Beispiels zu zeigen, wie ein Button funktioniert.
 
 **INPUT**
 - Bei dieser Aufgabe habe ich mich mit dem HTML-Element `input` beschäftigt und herausgefunden, wie man Eingabefelder mit JavaScript steuern kann.
 - Besonders interessant fand ich die Eigenschaften `value`, `placeholder` und `disabled`, da man damit den Inhalt und die Nutzung eines Eingabefeldes beeinflussen kann.
 - Mithilfe eines Beispiels konnte ich testen, wie sich Texte automatisch einfügen lassen und wie man ein Eingabefeld aktiviert oder deaktiviert.
 - **Tipps und Tricks:** Ich habe ChatGPT nach den wichtigsten Funktionen eines Input-Elements gefragt und darum gebeten, die Erklärungen möglichst kurz und verständlich zu halten. Außerdem habe ich mir ein praktisches Beispiel geben lassen, um die Funktionen selbst auszuprobieren.
+
+**TABLE**
+- Bei diesem DOM-Element habe ich gelernt, wie Tabellen in JavaScript aufgebaut sind und wie man einzelne Zeilen und Zellen ansprechen kann.
+- Mit `insertRow()` können neue Zeilen erstellt werden, während `deleteRow()` bestehende Zeilen entfernt.
+- Ich habe ChatGPT gefragt, wie ich gezielt den Inhalt einer bestimmten Tabellenzelle ändern kann und was die Zahlen in `rows[0].cells[0]` bedeuten.
+- **Tipps und Tricks:** Ich habe ChatGPT gebeten, den Code Schritt für Schritt durchzugehen und mir zu zeigen, welche Auswirkungen kleine Änderungen im Code haben. Außerdem habe ich nach typischen Fehlern beim Zugriff auf Tabellenzeilen gefragt.
+
+

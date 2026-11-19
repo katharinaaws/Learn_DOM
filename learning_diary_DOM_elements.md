@@ -54,7 +54,7 @@ Task 3:
 A button can be accessed and modified using JavaScript.
 2. ___What does it do?__
  Property	What does it do?
- 
+
 button.id	Gets or changes the button's ID.
 button.innerText	Gets or changes the text displayed on the button.
 button.disabled	Enables or disables the button (true / false).
@@ -78,4 +78,19 @@ input.placeholder	Zeigt einen Hinweistext im leeren Eingabefeld.
 input.disabled	Aktiviert oder deaktiviert das Eingabefeld.
 input.required	Legt fest, ob das Feld ausgefüllt werden muss.
 input.maxLength	Bestimmt die maximale Anzahl an Zeichen.
+
+___TABLE__
+
+Task 3
+1. __Which parameters of the Input element can be accessed from JavaScript?__
+Mit JavaScript kann man auf eine HTML-Tabelle zugreifen und beispielsweise Zeilen hinzufügen, löschen oder Inhalte verändern.
+2. ___What does it do?__
+Eigenschaft / Methode	Erklärung
+table.id	Gibt die ID der Tabelle an.
+table.rows	Greift auf alle Zeilen der Tabelle zu.
+table.insertRow()	Fügt eine neue Zeile hinzu.
+table.deleteRow()	Löscht eine Zeile.
+table.style	Verändert das Aussehen der Tabelle.
+table.rows[0].cells[0]	Greift auf die erste Zelle der ersten Zeile zu.
+table.caption	Greift auf die Tabellenüberschrift (caption) zu.
 
