@@ -31,3 +31,13 @@ function addRow() {
     row.insertCell(1).innerText = "22";
 }
 
+function addItem() {
+    let ul = document.getElementById("myList");
+
+    let newItem = document.createElement("li");
+    newItem.innerText = "Orange";
+
+    ul.appendChild(newItem);
+}
+
+

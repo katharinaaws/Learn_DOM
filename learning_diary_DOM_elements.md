@@ -82,7 +82,7 @@ input.maxLength	Bestimmt die maximale Anzahl an Zeichen.
 ___TABLE__
 
 Task 3
-1. __Which parameters of the Input element can be accessed from JavaScript?__
+1. __Which parameters of the Table element can be accessed from JavaScript?__
 Mit JavaScript kann man auf eine HTML-Tabelle zugreifen und beispielsweise Zeilen hinzufügen, löschen oder Inhalte verändern.
 2. ___What does it do?__
 Eigenschaft / Methode	Erklärung
@@ -93,4 +93,21 @@ table.deleteRow()	Löscht eine Zeile.
 table.style	Verändert das Aussehen der Tabelle.
 table.rows[0].cells[0]	Greift auf die erste Zelle der ersten Zeile zu.
 table.caption	Greift auf die Tabellenüberschrift (caption) zu.
+
+
+__ul__
+
+Task 3
+1. __Which parameters of the ul element can be accessed from JavaScript?__
+Das HTML-Element ul erstellt eine ungeordnete Liste mit Aufzählungspunkten. Mit JavaScript kann man Listenelemente hinzufügen, entfernen oder verändern.
+2. ___What does it do?__
+Eigenschaft / Methode	Erklärung
+ul.id	Gibt die ID der Liste an.
+ul.children	Greift auf alle direkten Listenelemente zu.
+ul.innerHTML	Liest oder verändert den HTML-Inhalt der Liste.
+ul.appendChild()	Fügt ein neues Element hinzu.
+ul.removeChild()	Entfernt ein Element aus der Liste.
+ul.style	Verändert das Aussehen der Liste.
+ul.children.length	Gibt die Anzahl der direkten Elemente zurück.
+
 

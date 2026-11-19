@@ -33,4 +33,11 @@ Was habe ich gelernt?
 - Ich habe ChatGPT gefragt, wie ich gezielt den Inhalt einer bestimmten Tabellenzelle ändern kann und was die Zahlen in `rows[0].cells[0]` bedeuten.
 - **Tipps und Tricks:** Ich habe ChatGPT gebeten, den Code Schritt für Schritt durchzugehen und mir zu zeigen, welche Auswirkungen kleine Änderungen im Code haben. Außerdem habe ich nach typischen Fehlern beim Zugriff auf Tabellenzeilen gefragt.
 
+**ui**
+
+- Ich habe gelernt, dass `ul` für ungeordnete Listen verwendet wird und die einzelnen Einträge mit `li` erstellt werden.
+- Mit JavaScript kann man neue Listenelemente hinzufügen, bestehende entfernen und die Anzahl der Einträge bestimmen.
+- Ich habe ChatGPT gefragt, worin der Unterschied zwischen `ul` und `ol` besteht und wie man mit `createElement()` einen neuen Listenpunkt erstellt.
+- **Tipps und Tricks:** Ich habe mir erklären lassen, warum man zuerst ein `li`-Element erstellen muss, bevor man es mit `appendChild()` zur Liste hinzufügen kann. Zusätzlich habe ich ausprobiert, wie sich die Liste verändert, wenn man mehrere Elemente hinzufügt.
+
 
